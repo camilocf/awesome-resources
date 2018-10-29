@@ -141,7 +141,8 @@ teaches kids to code! :moneybag:
 + <a href="http://lightbot.com/hocflash.html" target="_blank"> LightBot </a> Solve Puzzles using Programming Logic. :arrows_counterclockwise: 
 + <a href="http://twolivesleft.com/Codea/" target="_blank"> Codea </a> Codea for iPad lets you create games and simulations - or just about any visual idea you have. Turn your thoughts into interactive creations that make use of iPad features like Multi-Touch and the accelerometer. :moneybag:
 + <a href="https://itunes.apple.com/us/app/catos-hike-programming-logic/id574335479?mt=8" target="_blank"> Cato's Hike </a>Cato's Hike: A Programming and Logic Odyssey. :moneybag: 
-
++ <a href="https://www.enki.com/" target="_blank"> Enki </a> EnkiApp is the easiest way to level up your technical skills.
+Build a habit of acquiring new skills using our quick workouts and games. Learn new tips and tricks, a whole new language, or how to write your first line of code. :free:
 
 #### Courses for advanced learners
 
